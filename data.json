@@ -859,7 +859,25 @@
         "videoIntTime": 0.42
       }
     ]
-  },
+  },{
+    "videoGrup": "Satış Pazarlama Modülü Nasıl Kullanılır ?",
+    "videos": [
+         {
+        "videoName": "Satış Pazarlama 1",
+        "videoDescription": "",
+        "youtubeVideoID": "KYZeVtKIkzg",
+        "videoTime": "12:27",
+        "videoIntTime": 12.27
+      },
+        {
+        "videoName": "Satış Pazarlama 2",
+        "videoDescription": "",
+        "youtubeVideoID": "XnpshLiNeio",
+        "videoTime": "11:35",
+        "videoIntTime": 11.35
+      }
+     ]
+    },
       {
     "videoGrup": "Güvenlik Hizmetleri",
     "videos": [
